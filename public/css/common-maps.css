@@ -1,0 +1,14 @@
+.google-map {
+  height: 400px;
+  width: 100%;
+  color: #000 !important;
+}
+
+.vector-map {
+  width: 100%;
+  min-height: 500px;
+  margin: 0 auto;
+  position: relative;
+}
+
+/*# sourceMappingURL=common-maps.css.map */
